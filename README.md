@@ -1,0 +1,2 @@
+# nwm
+Nim Window Manager
